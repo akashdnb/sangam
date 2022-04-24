@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sangam</string>
+    <string name="welcome">Welcome</string>
+    <string name="login_to_access_your_account">Login to access your account</string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "847196323177",
+    "firebase_url": "https://sangam-7e39c-default-rtdb.firebaseio.com",
+    "project_id": "sangam-7e39c",
+    "storage_bucket": "sangam-7e39c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:847196323177:android:172b410ea47dd5acc091f8",
+        "android_client_info": {
+          "package_name": "com.example.sangam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "847196323177-1pvcojiinqfbn4nsks8aepola6assko3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sangam",
+            "certificate_hash": "b47aeacb657c053c55e06cecef0767cb6a0ca904"
+          }
+        },
+        {
+          "client_id": "847196323177-f0jh27gulkke9gp8ghm8t2b4agfqmnrm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJLz6lVJ0v_82a2-FBFrlOLH3TVnwqOlY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "847196323177-f0jh27gulkke9gp8ghm8t2b4agfqmnrm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
